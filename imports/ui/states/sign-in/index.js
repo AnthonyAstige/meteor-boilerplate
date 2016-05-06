@@ -6,7 +6,6 @@
  */
 import module from '../module.js'
 import { AccountsTemplates } from 'meteor/useraccounts:core'
-import './main.html'
 
 /**
  * Sign in state controller.

@@ -11,7 +11,6 @@
  * @memberof module:/imports/ui/components
  */
 import module from './module.js'
-import './meteorSample.html'
 
 class MeteorSampleController {
   constructor () {

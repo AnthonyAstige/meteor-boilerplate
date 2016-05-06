@@ -16,7 +16,6 @@
  */
 import module from '../module.js'
 import { Meteor } from 'meteor/meteor'
-import './main.html'
 
 /**
  * Home state controller.

@@ -6,7 +6,6 @@
  * @memberof module:/imports/ui/states
  */
 import module from '../module.js'
-import './add.html'
 import { Tasks } from '/imports/api/tasks'
 /**
  * Home state controller.

@@ -6,7 +6,6 @@
  */
 import module from '../module.js'
 import { Meteor } from 'meteor/meteor'
-import './edit.html'
 import { Tasks } from '/imports/api/tasks'
 
 /**

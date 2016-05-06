@@ -5,7 +5,6 @@
  * @memberof module:/imports/ui/states
  */
 import module from '../module.js'
-import './main.html'
 
 // eslint-disable-next-line angular/module-getter
 angular.module(module.name)
