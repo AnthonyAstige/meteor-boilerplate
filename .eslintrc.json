@@ -3,22 +3,16 @@
     "ecmaVersion": 6,
     "sourceType": "module"
   },
-  "extends": [
-    "airbnb/base",
-    "angular",
-    "plugin:meteor/recommended",
-    "standard"
-  ],
   "envs": {
-    "angular": true,
     "meteor": true
   },
   "plugins": [
-    "angular",
     "import",
     "meteor"
   ],
-  "rules": {},
+  "rules": {
+	"strict":"error"
+  },
   "settings": {
     "import/resolver": "meteor"
   }
